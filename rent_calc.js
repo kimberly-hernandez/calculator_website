@@ -1,15 +1,3 @@
-/*testing to see if JS works in budget.html page
-
-let testingButton = document.querySelector("#test");
-let zappedSpan = document.querySelector("#zapped");
-
-testingButton.addEventListener("click", function(event){
-
-    zappedSpan.innerHTML = "zapped";
-});
-*/
-//rent percentage calculator
-
 let enterButton1 = document.querySelector("#enterButton1");
 let rentPercentageSpan = document.querySelector("#rentPercentage");
 let appropriateSpan = document.querySelector("#appropriate");
